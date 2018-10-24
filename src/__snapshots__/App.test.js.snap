@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1
+    className="display"
+  >
+    Off
+  </h1>
+  <div>
+    <button
+      className="toggle-btn"
+      onClick={[Function]}
+    >
+      Toggle
+    </button>
+  </div>
+</div>
+`;
